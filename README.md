@@ -89,5 +89,11 @@ The *Restaurant Management System* aims to streamline restaurant operations thro
 
 ---
 
+## UML Diagram
+Below is the UML diagram for the Restaurant Management System:
+
+![UML](assets/UML.png)
+---
+
 ### Author
 Developed by *Roz*.
